@@ -31,7 +31,7 @@ To use this project locally, follow these steps:
 
     Clone the repository:
 
-git clone https://github.com/shaadclt/Multiple-Disease-Prediction-System.git
+git clone https://github.com/VanshBhardwaj24/HealthGuard-AI
 
     Install the required dependencies by running:
 
